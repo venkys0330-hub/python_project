@@ -1,0 +1,37 @@
+Region,Therapeutic_Area,Product,Gender,Product_Type,Customer_Type,Distributor,Quantity,Unit_Price_EUR,Discount_Rate,Revenue_EUR
+Dublin,Cardiovascular,HSE Generic Medicines,Male,Medicine Category,Hospital,Apex Pharma,120,18.5,0.08,2042.4
+Cork,Diabetes,Flu Vaccine,Female,Medicine Category,Pharmacy,GreenCare,210,6.2,0.05,1236.9
+Galway,Respiratory,COVID-19 Booster,Male,Medicine Category,Pharmacy,MediPlus,175,9.8,0.07,1594.95
+Dublin,Cardiovascular,Insulin,Female,Medicine Category,Hospital,Apex Pharma,145,11.4,0.06,1553.82
+Limerick,Antibiotic,Asthma Inhaler,Male,Medicine Category,Pharmacy,HealthFirst,260,7.5,0.1,1755
+Cork,Diabetes,Blood Pressure Tablets,Female,Medicine Category,Hospital,GreenCare,95,42,0.05,3790.5
+Dublin,Respiratory,Antibiotics,Male,Medicine Category,Hospital,MediPlus,130,22,0.08,2631.2
+Galway,Antibiotic,Pain Relief,Female,Medicine Category,Pharmacy,HealthFirst,190,13.5,0.07,2385.45
+Limerick,Cardiovascular,HSE Generic Medicines,Male,Medicine Category,Pharmacy,Apex Pharma,225,18.5,0.09,3787.88
+Dublin,Diabetes,Flu Vaccine,Female,Medicine Category,Hospital,GreenCare,280,6.2,0.06,1631.84
+Cork,Respiratory,COVID-19 Booster,Male,Medicine Category,Pharmacy,MediPlus,205,9.8,0.05,1908.55
+Galway,Cardiovascular,Insulin,Female,Medicine Category,Hospital,Apex Pharma,160,11.4,0.08,1678.08
+Limerick,Antibiotic,Asthma Inhaler,Male,Medicine Category,Pharmacy,HealthFirst,310,7.5,0.12,2046
+Dublin,Diabetes,Blood Pressure Tablets,Female,Medicine Category,Hospital,GreenCare,110,42,0.06,4342.8
+Cork,Cardiovascular,Antibiotics,Male,Medicine Category,Pharmacy,Apex Pharma,240,18.5,0.1,3996
+Galway,Respiratory,Pain Relief,Female,Medicine Category,Hospital,MediPlus,155,22,0.07,3171.3
+Dublin,Antibiotic,HSE Generic Medicines,Male,Medicine Category,Pharmacy,HealthFirst,235,13.5,0.09,2886.98
+Limerick,Cardiovascular,Flu Vaccine,Female,Medicine Category,Hospital,Apex Pharma,180,11.4,0.08,1887.84
+Cork,Diabetes,COVID-19 Booster,Male,Medicine Category,Pharmacy,GreenCare,295,6.2,0.06,1719.26
+Dublin,Respiratory,Insulin,Female,Medicine Category,Pharmacy,MediPlus,220,9.8,0.08,1983.52
+Galway,Antibiotic,Asthma Inhaler,Male,Medicine Category,Pharmacy,HealthFirst,275,7.5,0.1,1856.25
+Limerick,Diabetes,Blood Pressure Tablets,Female,Medicine Category,Hospital,GreenCare,105,42,0.05,4189.5
+Dublin,Cardiovascular,Antibiotics,Male,Medicine Category,Hospital,Apex Pharma,250,18.5,0.09,4208.75
+Cork,Respiratory,Pain Relief,Female,Medicine Category,Hospital,MediPlus,140,22,0.07,2864.4
+Galway,Cardiovascular,HSE Generic Medicines,Male,Medicine Category,Pharmacy,Apex Pharma,170,11.4,0.08,1782.96
+Dublin,Antibiotic,Flu Vaccine,Female,Medicine Category,Pharmacy,HealthFirst,245,13.5,0.1,2976.75
+Limerick,Diabetes,COVID-19 Booster,Male,Medicine Category,Pharmacy,GreenCare,320,6.2,0.06,1864.96
+Cork,Cardiovascular,Insulin,Female,Medicine Category,Hospital,Apex Pharma,265,18.5,0.09,4461.28
+Galway,Respiratory,Asthma Inhaler,Male,Medicine Category,Pharmacy,MediPlus,230,9.8,0.07,2096.22
+Dublin,Diabetes,Blood Pressure Tablets,Female,Medicine Category,Hospital,GreenCare,125,42,0.05,4987.5
+Limerick,Antibiotic,Antibiotics,Male,Medicine Category,Pharmacy,HealthFirst,290,7.5,0.11,1935.75
+Cork,Respiratory,Pain Relief,Female,Medicine Category,Hospital,MediPlus,150,22,0.06,3102
+Dublin,Cardiovascular,HSE Generic Medicines,Male,Medicine Category,Hospital,Apex Pharma,195,11.4,0.08,2045.16
+Galway,Antibiotic,Flu Vaccine,Female,Medicine Category,Pharmacy,HealthFirst,215,13.5,0.09,2641.28
+Limerick,Diabetes,COVID-19 Booster,Male,Medicine Category,Pharmacy,GreenCare,305,6.2,0.07,1758.63
+Dublin,Cardiovascular,Insulin,Female,Medicine Category,Hospital,Apex Pharma,275,18.5,0.1,4578.75
